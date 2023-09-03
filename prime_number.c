@@ -19,5 +19,6 @@ int main(){
     else{
         printf("this number is composite ");
     }
+    printf("hello feature1");
     return 0;
 }
